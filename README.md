@@ -47,7 +47,6 @@ admin.site.register(Bankloan,BankloanAdmin)
 ## OUTPUT
 ![Screenshot 2025-04-23 192354](https://github.com/user-attachments/assets/23844a0d-e494-4514-abec-1fb134e78ca4)
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
